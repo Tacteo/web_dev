@@ -1,0 +1,5640 @@
+[
+    {
+        "Number": 1,
+        "Name": "Common Butterfly",
+        "Location": "Sky",
+        "Price": 90,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "March",
+                    "month": 3,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "month": 4,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 2,
+        "Name": "Yellow Butterfly",
+        "Location": "Sky",
+        "Price": 90,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "March",
+                    "month": 3,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "month": 4,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 3,
+        "Name": "Tiger Butterfly",
+        "Location": "Sky",
+        "Price": 160,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "March",
+                    "month": 3,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "month": 4,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 8,
+                    "end": 17,
+                    "rarity": "very common"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 4,
+        "Name": "Peacock Butterfly",
+        "Location": "Sky",
+        "Price": 220,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "March",
+                    "month": 3,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "month": 4,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 16,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 8,
+                    "end": 17,
+                    "rarity": "common"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 5,
+        "Name": "Monarch Butterfly",
+        "Location": "Sky",
+        "Price": 140,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very common"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "month": 11,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very common"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 8,
+                    "end": 16,
+                    "rarity": "common"
+                },
+                {
+                    "start": 16,
+                    "end": 17,
+                    "rarity": "rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 6,
+        "Name": "Emperor Butterfly",
+        "Location": "Sky",
+        "Price": 2500,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 23,
+                    "end": 8,
+                    "rarity": "common"
+                },
+                {
+                    "start": 19,
+                    "end": 23,
+                    "rarity": "rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 7,
+        "Name": "Agrias Butterfly",
+        "Location": "Sky",
+        "Price": 3000,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 8,
+                    "end": 16,
+                    "rarity": "rare"
+                },
+                {
+                    "start": 16,
+                    "end": 17,
+                    "rarity": "very rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 8,
+        "Name": "Raja Brooke Butterfly",
+        "Location": "Sky",
+        "Price": 2500,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 9,
+        "Name": "Birdwing Butterfly",
+        "Location": "Sky",
+        "Price": 4000,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 8,
+                    "end": 16,
+                    "rarity": "rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 10,
+        "Name": "Moth",
+        "Location": "Light source",
+        "Price": 60,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 11,
+        "Name": "Oak Silk Moth",
+        "Location": "Tree",
+        "Price": 1200,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 23,
+                    "end": 4,
+                    "rarity": "rare"
+                },
+                {
+                    "start": 19,
+                    "end": 23,
+                    "rarity": "very rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 12,
+        "Name": "Honeybee",
+        "Location": "Sky",
+        "Price": 100,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "March",
+                    "month": 3,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "month": 4,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 13,
+        "Name": "Bee",
+        "Location": "Shaken tree",
+        "Price": 2500,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "January",
+                    "month": 1,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "month": 2,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "month": 3,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "month": 4,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "month": 11,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "month": 12,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "all_day": true,
+                    "rarity": "rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 14,
+        "Name": "Long Locust",
+        "Location": "On the ground",
+        "Price": 200,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 16,
+                            "end": 19,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "month": 11,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "common"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 8,
+                    "end": 19,
+                    "rarity": "common"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 15,
+        "Name": "Migratory Locust",
+        "Location": "On the ground",
+        "Price": 600,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "month": 11,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 16,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 8,
+                    "end": 19,
+                    "rarity": "common"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 16,
+        "Name": "Rice Grasshopper",
+        "Location": "On the ground",
+        "Price": 400,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "month": 11,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 17,
+        "Name": "Mantis",
+        "Location": "Flowers",
+        "Price": 430,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "April",
+                    "month": 4,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "month": 11,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 8,
+                    "end": 16,
+                    "rarity": "common"
+                },
+                {
+                    "start": 16,
+                    "end": 17,
+                    "rarity": "rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 18,
+        "Name": "Orchid Mantis",
+        "Location": "White flowers",
+        "Price": 2400,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "April",
+                    "month": 4,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "month": 11,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 8,
+                    "end": 16,
+                    "rarity": "common"
+                },
+                {
+                    "start": 16,
+                    "end": 17,
+                    "rarity": "rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 19,
+        "Name": "Brown Cicada",
+        "Location": "Tree",
+        "Price": 200,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very common"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 20,
+        "Name": "Robust Cicada",
+        "Location": "Tree",
+        "Price": 300,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "common"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 21,
+        "Name": "Giant Cicada",
+        "Location": "Tree",
+        "Price": 500,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 22,
+        "Name": "Walker Cicada",
+        "Location": "Tree",
+        "Price": 400,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 23,
+        "Name": "Evening Cicada",
+        "Location": "Tree",
+        "Price": 550,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 16,
+                            "end": 19,
+                            "rarity": "very common"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "very common"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 24,
+        "Name": "Cicada Shell",
+        "Location": "Tree",
+        "Price": 100,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 25,
+        "Name": "Lantern Fly",
+        "Location": "Tree",
+        "Price": 1800,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 23,
+                    "end": 8,
+                    "rarity": "rare"
+                },
+                {
+                    "start": 16,
+                    "end": 17,
+                    "rarity": "very rare"
+                },
+                {
+                    "start": 17,
+                    "end": 19,
+                    "rarity": "rare"
+                },
+                {
+                    "start": 19,
+                    "end": 23,
+                    "rarity": "very rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 26,
+        "Name": "Red Dragonfly",
+        "Location": "Sky",
+        "Price": 80,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 16,
+                            "end": 19,
+                            "rarity": "very common"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 27,
+        "Name": "Darner Dragonfly",
+        "Location": "Sky",
+        "Price": 200,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 28,
+        "Name": "Banded Dragonfly",
+        "Location": "Sky",
+        "Price": 4500,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 29,
+        "Name": "Petaltail Dragonfly",
+        "Location": "Sky",
+        "Price": 8000,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 30,
+        "Name": "Ant",
+        "Location": "In rain or on rotten turnips",
+        "Price": 80,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "January",
+                    "month": 1,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "month": 2,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "month": 3,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "month": 4,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "month": 11,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "month": 12,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "all_day": true,
+                    "rarity": "rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 31,
+        "Name": "Pondskater",
+        "Location": "Water's surface",
+        "Price": 130,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 32,
+        "Name": "Diving Beetle",
+        "Location": "Water's surface",
+        "Price": 800,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 33,
+        "Name": "Stinkbug",
+        "Location": "Tree",
+        "Price": 120,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "April",
+                    "month": 4,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 34,
+        "Name": "Snail",
+        "Location": "Shrub",
+        "Price": 250,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "April",
+                    "month": 4,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 23,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 19,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 35,
+        "Name": "Cricket",
+        "Location": "On the ground",
+        "Price": 130,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "very common"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "very common"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "month": 11,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very common"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 36,
+        "Name": "Bell Cricket",
+        "Location": "On the ground",
+        "Price": 430,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "very common"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "very common"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 37,
+        "Name": "Grasshopper",
+        "Location": "On the ground",
+        "Price": 160,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 8,
+                    "end": 16,
+                    "rarity": "common"
+                },
+                {
+                    "start": 16,
+                    "end": 17,
+                    "rarity": "very common"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 38,
+        "Name": "Mole Cricket",
+        "Location": "Underground",
+        "Price": 280,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "January",
+                    "month": 1,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "month": 2,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "month": 3,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "month": 4,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "month": 11,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "month": 12,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 39,
+        "Name": "Walking Leaf",
+        "Location": "On the ground",
+        "Price": 600,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 40,
+        "Name": "Walking Stick",
+        "Location": "Tree",
+        "Price": 600,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "month": 11,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 4,
+                    "end": 8,
+                    "rarity": "very common"
+                },
+                {
+                    "start": 17,
+                    "end": 19,
+                    "rarity": "very common"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 41,
+        "Name": "Bagworm",
+        "Location": "Hanging from tree",
+        "Price": 300,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "January",
+                    "month": 1,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "month": 2,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "month": 11,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "month": 12,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 42,
+        "Name": "Ladybug",
+        "Location": "Flowers",
+        "Price": 200,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "March",
+                    "month": 3,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "month": 4,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 43,
+        "Name": "Violin Beetle",
+        "Location": "Tree stump",
+        "Price": 260,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "month": 11,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 44,
+        "Name": "Longhorn Beetle",
+        "Location": "Tree stump",
+        "Price": 260,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 19,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 23,
+                    "end": 8,
+                    "rarity": "common"
+                },
+                {
+                    "start": 8,
+                    "end": 19,
+                    "rarity": "rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 45,
+        "Name": "Tiger Beetle",
+        "Location": "On the ground",
+        "Price": 1500,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "March",
+                    "month": 3,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "month": 4,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "start": 4,
+                            "end": 17,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 16,
+                    "end": 23,
+                    "rarity": "rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 46,
+        "Name": "Dung Beetle",
+        "Location": "Rolling snowballs",
+        "Price": 800,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "January",
+                    "month": 1,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "month": 2,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "month": 12,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 47,
+        "Name": "Wharf Roach",
+        "Location": "Beach",
+        "Price": 200,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "January",
+                    "month": 1,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "month": 2,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "month": 3,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "month": 4,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "month": 11,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "month": 12,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "all_day": true,
+                    "rarity": "common"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 48,
+        "Name": "Hermit Crab",
+        "Location": "Beach",
+        "Price": 1000,
+        "Times": {
+            "Mainland": [],
+            "Island": [
+                {
+                    "start": 23,
+                    "end": 8,
+                    "rarity": "rare"
+                },
+                {
+                    "start": 19,
+                    "end": 23,
+                    "rarity": "rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 49,
+        "Name": "Firefly",
+        "Location": "Near water",
+        "Price": 300,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very common"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 50,
+        "Name": "Fruit Beetle",
+        "Location": "Tree",
+        "Price": 100,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very common"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very common"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "all_day": true,
+                    "rarity": "very common"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 51,
+        "Name": "Scarab Beetle",
+        "Location": "Tree",
+        "Price": 6000,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 23,
+                    "end": 8,
+                    "rarity": "very rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 52,
+        "Name": "Jewel Beetle",
+        "Location": "Tree",
+        "Price": 2400,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 8,
+                    "end": 17,
+                    "rarity": "common"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 53,
+        "Name": "Miyama Stag",
+        "Location": "Tree",
+        "Price": 1000,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 19,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "common"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 23,
+                    "end": 4,
+                    "rarity": "rare"
+                },
+                {
+                    "start": 4,
+                    "end": 8,
+                    "rarity": "common"
+                },
+                {
+                    "start": 8,
+                    "end": 19,
+                    "rarity": "rare"
+                },
+                {
+                    "start": 19,
+                    "end": 23,
+                    "rarity": "common"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 54,
+        "Name": "Saw Stag",
+        "Location": "Tree",
+        "Price": 2000,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 8,
+                            "end": 19,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 23,
+                    "end": 4,
+                    "rarity": "rare"
+                },
+                {
+                    "start": 4,
+                    "end": 8,
+                    "rarity": "common"
+                },
+                {
+                    "start": 8,
+                    "end": 16,
+                    "rarity": "rare"
+                },
+                {
+                    "start": 16,
+                    "end": 17,
+                    "rarity": "very rare"
+                },
+                {
+                    "start": 17,
+                    "end": 23,
+                    "rarity": "rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 55,
+        "Name": "Giant Stag",
+        "Location": "Tree",
+        "Price": 10000,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 23,
+                    "end": 8,
+                    "rarity": "rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 56,
+        "Name": "Rainbow Stag",
+        "Location": "Tree",
+        "Price": 10000,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 23,
+                    "end": 8,
+                    "rarity": "very rare"
+                },
+                {
+                    "start": 17,
+                    "end": 19,
+                    "rarity": "very rare"
+                },
+                {
+                    "start": 19,
+                    "end": 23,
+                    "rarity": "rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 57,
+        "Name": "Cyclommatus Stag",
+        "Location": "Palm tree",
+        "Price": 8000,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 23,
+                    "end": 8,
+                    "rarity": "very rare"
+                },
+                {
+                    "start": 17,
+                    "end": 19,
+                    "rarity": "very rare"
+                },
+                {
+                    "start": 19,
+                    "end": 23,
+                    "rarity": "rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 58,
+        "Name": "Golden Stag",
+        "Location": "Palm tree",
+        "Price": 12000,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 23,
+                    "end": 8,
+                    "rarity": "very rare"
+                },
+                {
+                    "start": 17,
+                    "end": 23,
+                    "rarity": "very rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 59,
+        "Name": "Horned Dynastid",
+        "Location": "Tree",
+        "Price": 1350,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 23,
+                    "end": 8,
+                    "rarity": "very common"
+                },
+                {
+                    "start": 17,
+                    "end": 23,
+                    "rarity": "very common"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 60,
+        "Name": "Horned Atlas",
+        "Location": "Palm tree",
+        "Price": 8000,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 23,
+                    "end": 4,
+                    "rarity": "very rare"
+                },
+                {
+                    "start": 4,
+                    "end": 8,
+                    "rarity": "rare"
+                },
+                {
+                    "start": 17,
+                    "end": 19,
+                    "rarity": "very rare"
+                },
+                {
+                    "start": 19,
+                    "end": 23,
+                    "rarity": "rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 61,
+        "Name": "Horned Elephant",
+        "Location": "Palm tree",
+        "Price": 8000,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 23,
+                    "end": 4,
+                    "rarity": "very rare"
+                },
+                {
+                    "start": 4,
+                    "end": 8,
+                    "rarity": "rare"
+                },
+                {
+                    "start": 17,
+                    "end": 19,
+                    "rarity": "very rare"
+                },
+                {
+                    "start": 19,
+                    "end": 23,
+                    "rarity": "rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 62,
+        "Name": "Horned Hercules",
+        "Location": "Palm tree",
+        "Price": 12000,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 23,
+                    "end": 8,
+                    "rarity": "very rare"
+                },
+                {
+                    "start": 17,
+                    "end": 23,
+                    "rarity": "very rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 63,
+        "Name": "Goliath Beetle",
+        "Location": "Palm tree",
+        "Price": 6000,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "start": 23,
+                    "end": 8,
+                    "rarity": "very rare"
+                },
+                {
+                    "start": 17,
+                    "end": 23,
+                    "rarity": "very rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 64,
+        "Name": "Flea",
+        "Location": "On villagers",
+        "Price": 70,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "March",
+                    "month": 3,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "month": 4,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "month": 11,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 65,
+        "Name": "Pill Bug",
+        "Location": "Rock",
+        "Price": 250,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "January",
+                    "month": 1,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very common"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "month": 2,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very common"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "month": 3,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very common"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "month": 4,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 23,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "month": 11,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very common"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "month": 12,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "very common"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 66,
+        "Name": "Mosquito",
+        "Location": "Sky",
+        "Price": 130,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "very common"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "very common"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "very common"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 67,
+        "Name": "Fly",
+        "Location": "On rotten turnips",
+        "Price": 60,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "January",
+                    "month": 1,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "month": 2,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "month": 3,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "month": 4,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "month": 11,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "month": 12,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ],
+            "Island": [
+                {
+                    "all_day": true,
+                    "rarity": "rare"
+                }
+            ]
+        }
+    },
+    {
+        "Number": 68,
+        "Name": "House Centipede",
+        "Location": "Rock",
+        "Price": 250,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 69,
+        "Name": "Centipede",
+        "Location": "Rock",
+        "Price": 300,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "January",
+                    "month": 1,
+                    "spawn": [
+                        {
+                            "start": 16,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "month": 2,
+                    "spawn": [
+                        {
+                            "start": 16,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 16,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 16,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "month": 11,
+                    "spawn": [
+                        {
+                            "start": 16,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "month": 12,
+                    "spawn": [
+                        {
+                            "start": 16,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 70,
+        "Name": "Spider",
+        "Location": "Hanging from tree",
+        "Price": 300,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "March",
+                    "month": 3,
+                    "spawn": [
+                        {
+                            "all_day": true,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "month": 4,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 23,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "month": 5,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 8,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 23,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 8,
+                            "end": 16,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 16,
+                            "end": 17,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 19,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "common"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "rare"
+                        },
+                        {
+                            "start": 4,
+                            "end": 8,
+                            "rarity": "common"
+                        },
+                        {
+                            "start": 8,
+                            "end": 17,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 17,
+                            "end": 23,
+                            "rarity": "rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "October",
+                    "month": 10,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 16,
+                            "rarity": "rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 71,
+        "Name": "Tarantula",
+        "Location": "On the ground",
+        "Price": 8000,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "June",
+                    "month": 6,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Number": 72,
+        "Name": "Scorpion",
+        "Location": "On the ground",
+        "Price": 8000,
+        "Times": {
+            "Mainland": [
+                {
+                    "name": "July",
+                    "month": 7,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "month": 8,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "month": 9,
+                    "spawn": [
+                        {
+                            "start": 23,
+                            "end": 4,
+                            "rarity": "very rare"
+                        },
+                        {
+                            "start": 19,
+                            "end": 23,
+                            "rarity": "very rare"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]
